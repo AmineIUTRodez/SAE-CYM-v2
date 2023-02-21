@@ -20,7 +20,15 @@ Ce document présente les exigences produits permettant de livrer à la startup 
 de son projet en temps et en heure.
 Dans la suite du document, les termes "application", "plateforme" ou "logiciel" désignent de manière
 indifférente l’application Web CheckYourMood.
-
+## Les Outils :
+<ul>Developpement :
+ <li>Android Studio</li>
+ <li>...</li>
+ Suivi de projet: 
+ <li>Gantt Project</li>
+ <li>Zenhub</li>
+</ul>
+ 
 ## Équipe : 
 
 Ce projet sera développer au sein d'une équipe de 4 développeur :
@@ -30,7 +38,8 @@ Ce projet sera développer au sein d'une équipe de 4 développeur :
             <li>Jules Blanchard</li>
             <li>Mateo Faussurier (Product Owner) </li>
           </ul>
+
 ## Lien 
 
-lien vers le dossier drive : https://drive.google.com/drive/folders/1HFZnI1J1juEisflIj2r8plbB5WDRZE6v?usp=share_link
+lien vers le dossier drive : https://drive.google.com/drive/folders/1HFZnI1J1juEisflIj2r8plbB5WDRZE6v?usp=share_link <br>
 Lien vers le board zenhub :
